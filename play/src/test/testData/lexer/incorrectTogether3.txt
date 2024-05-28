@@ -1,5 +1,0 @@
-TAG_START ('#{')
-TAG_NAME ('form')
-WHITE_SPACE (' ')
-AT ('@')
-ACTION_SCRIPT ('addBar()')

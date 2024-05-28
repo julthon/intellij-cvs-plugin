@@ -1,2 +1,0 @@
-MESSAGE_START ('&{')
-MESSAGE_END ('}')

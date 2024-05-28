@@ -1,6 +1,0 @@
-PlayPsiFile: EmptyTagError.html
-  PsiElement(TAG_START)('#{')
-  PsiErrorElement:Tag Name expected
-    <empty list>
-  PsiWhiteSpace(' ')
-  PsiElement(CLOSE_TAG)('/}')

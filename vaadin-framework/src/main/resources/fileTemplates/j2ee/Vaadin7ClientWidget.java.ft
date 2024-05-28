@@ -1,8 +1,0 @@
-package ${PACKAGE_NAME};
-
-import com.google.gwt.user.client.ui.Widget;
-
-#parse("File Header.java")
-public class ${NAME} extends Widget {
-
-}

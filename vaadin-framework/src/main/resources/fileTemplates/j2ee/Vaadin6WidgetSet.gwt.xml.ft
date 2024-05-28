@@ -1,4 +1,0 @@
-${GWT_MODULE_DOCTYPE}
-<module>
-  <inherits name="com.vaadin.terminal.gwt.DefaultWidgetSet" />
-</module>

@@ -1,6 +1,0 @@
-<idea-plugin>
-    <extensions defaultExtensionNs="com.intellij">
-        <sass.extension implementation="com.jetbrains.plugins.compass.ruby.RubyCompassExtension"/>
-        <moduleService serviceImplementation="com.jetbrains.plugins.compass.ruby.CompassImportPathRegistrationWatcherRM"/>
-    </extensions>
-</idea-plugin>

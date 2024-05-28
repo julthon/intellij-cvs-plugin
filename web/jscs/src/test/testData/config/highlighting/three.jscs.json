@@ -1,3 +1,0 @@
-{
-  "requireCurlyBraces": ["for", "if", <warning descr="Expected values: keywords (if, else, while, ...)">"wrong"</warning>, "with"]
-}

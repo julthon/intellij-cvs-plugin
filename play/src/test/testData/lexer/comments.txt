@@ -1,5 +1,0 @@
-TEMPLATE_TEXT (' html text ')
-COMMENT_START ('*{')
-COMMENT_TEXT (' comment ')
-COMMENT_END ('}*')
-TEMPLATE_TEXT (' bbb')

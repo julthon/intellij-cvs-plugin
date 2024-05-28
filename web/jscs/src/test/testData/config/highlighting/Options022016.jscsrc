@@ -1,7 +1,0 @@
-{
-  "disallowSpacesInGenerator": {
-    "afterStar": true
-  },
-  "requireAlignedMultilineParams": "firstParam",
-  "validateCommentPosition": { "position": "above", "allExcept": ["pragma"] }
-}

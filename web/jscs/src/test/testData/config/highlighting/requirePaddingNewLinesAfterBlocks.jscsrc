@@ -1,5 +1,0 @@
-{
-  "requirePaddingNewLinesAfterBlocks" : {
-    "allExcept": [<warning descr="string expected">1</warning>]
-  }
-}

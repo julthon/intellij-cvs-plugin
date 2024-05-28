@@ -1,1 +1,0 @@
-var a = 1<error descr="JSLint: Expected ';' and instead saw ','."><error descr="JSLint: Unexpected ','.">,</error></error> b = <error descr="JSLint: Use double quotes, not single quotes.">'test'</error>;

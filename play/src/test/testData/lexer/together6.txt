@@ -1,4 +1,0 @@
-TAG_START ('#{')
-TAG_NAME ('error')
-WHITE_SPACE (' ')
-BAD_CHARACTER (''name /}')

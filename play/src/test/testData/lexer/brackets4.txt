@@ -1,7 +1,0 @@
-TAG_START ('#{')
-TAG_NAME ('c')
-WHITE_SPACE (' ')
-ATTR_NAME ('bbb')
-COLON (':')
-TAG_EXPRESSION ('[([''])]('[]') ')
-CLOSE_TAG ('/}')

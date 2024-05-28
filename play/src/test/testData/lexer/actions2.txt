@@ -1,5 +1,0 @@
-TEMPLATE_TEXT ('aaa ')
-ACTION_START ('@{')
-ACTION_SCRIPT (' {a+b} ')
-ACTION_END ('}')
-TEMPLATE_TEXT (' bbb')

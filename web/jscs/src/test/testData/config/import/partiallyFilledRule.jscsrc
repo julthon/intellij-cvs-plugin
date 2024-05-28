@@ -1,3 +1,0 @@
-{
-  "validateIndentation": { "value": "\t", "allExcept": ["comments"] }
-}

@@ -1,5 +1,0 @@
-GROOVY_OUTER_ELEMENT ('%{')
-identifier ('x')
-= ('=')
-Integer ('1')
-GROOVY_OUTER_ELEMENT ('}%{a=2}%')

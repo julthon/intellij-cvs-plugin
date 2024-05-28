@@ -1,5 +1,0 @@
-COMMENT_START ('*{')
-COMMENT_TEXT ('some dummy template *{to')
-COMMENT_END ('}*')
-TEMPLATE_TEXT (' check comments }')
-TEMPLATE_TEXT ('*')
